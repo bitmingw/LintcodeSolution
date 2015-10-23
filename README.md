@@ -6,7 +6,7 @@
 | ------:| ----:|:----:|:-------------:|
 | 1 | Interview Flow | Fizz Buzz | 21 Oct 2015 |
 | 2 | Basic Knowledge | Fibonacci | 23 Oct 2015 |
-| 3 | Basic Knowledge | Space Replacement | |
+| 3 | Basic Knowledge | Space Replacement | 23 Oct 2015 |
 | 4 | Basic Knowledge | Count 1 in Binary | |
 | 5 | Basic Knowledge | Singleton | |
 | 6 | Basic Knowledge | Reverse Linked List | |
