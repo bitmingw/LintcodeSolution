@@ -8,8 +8,8 @@
 | 2 | Basic Knowledge | Fibonacci | 23 Oct 2015 |
 | 3 | Basic Knowledge | Space Replacement | 23 Oct 2015 |
 | 4 | Basic Knowledge | Count 1 in Binary | 23 Oct 2015 |
-| 5 | Basic Knowledge | Singleton | |
-| 6 | Basic Knowledge | Reverse Linked List | |
+| 5 | Basic Knowledge | Singleton | 28 Oct 2015 |
+| 6 | Basic Knowledge | Reverse Linked List | 28 Oct 2015 |
 | 7 | Basic Knowledge | Find Minimum in Rotated Sorted Array | |
 | 8 | Basic Knowledge | Construct Binary Tree from Preorder and Inorder Traversal | |
 | 9 | Basic Knowledge | Implement Queue by Two Stacks | |
