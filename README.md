@@ -13,6 +13,6 @@
 | 7 | Basic Knowledge | Find Minimum in Rotated Sorted Array | 28 Oct 2015 |
 | 8 | Basic Knowledge | Construct Binary Tree from Preorder and Inorder Traversal | 28 Oct 2015 |
 | 9 | Basic Knowledge | Implement Queue by Two Stacks | 28 Oct 2015 |
-| 10| Basic Knowledge | Search a 2D Matrix II | |
+| 10| Basic Knowledge | Search a 2D Matrix II | 28 Oct 2015 |
 
 ## US Giants
