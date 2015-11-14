@@ -14,7 +14,7 @@
 | 8 | Basic Knowledge | Construct Binary Tree from Preorder and Inorder Traversal | 28 Oct 2015 |
 | 9 | Basic Knowledge | Implement Queue by Two Stacks | 28 Oct 2015 |
 | 10| Basic Knowledge | Search a 2D Matrix II | 28 Oct 2015 |
-| 11| Coding Quality | Partition Odd and Even | |
+| 11| Coding Quality | Partition Odd and Even | 14 Nov 2015 |
 | 12| Coding Quality | Delete Middle Node | |
 | 13| Coding Quality | Subtree | |
 | 14| Coding Quality | Remove N-th Node From End | |
