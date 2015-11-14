@@ -15,7 +15,7 @@
 | 9 | Basic Knowledge | Implement Queue by Two Stacks | 28 Oct 2015 |
 | 10| Basic Knowledge | Search a 2D Matrix II | 28 Oct 2015 |
 | 11| Coding Quality | Partition Odd and Even | 14 Nov 2015 |
-| 12| Coding Quality | Delete Middle Node | |
+| 12| Coding Quality | Delete Middle Node | 14 Nov 2015 |
 | 13| Coding Quality | Subtree | |
 | 14| Coding Quality | Remove N-th Node From End | |
 | 15| Coding Quality | Merge Two Sorted List | |
