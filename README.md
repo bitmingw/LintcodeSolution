@@ -21,6 +21,6 @@
 | 15| Coding Quality | Merge Two Sorted List | 20 Nov 2015 |
 | 16| Coding Quality | Reverse Linked List | 28 Oct 2015 |
 | 17| Coding Quality | Print Numbers By Recursion | 20 Nov 2015 |
-| 18| Coding Quality | Fast Power | |
+| 18| Coding Quality | Fast Power | 20 Nov 2015 |
 
 ## US Giants
