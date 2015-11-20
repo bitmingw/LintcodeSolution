@@ -20,7 +20,7 @@
 | 14| Coding Quality | Remove N-th Node From End | 20 Nov 2015 |
 | 15| Coding Quality | Merge Two Sorted List | 20 Nov 2015 |
 | 16| Coding Quality | Reverse Linked List | 28 Oct 2015 |
-| 17| Coding Quality | Print Numbers By Recursion | |
+| 17| Coding Quality | Print Numbers By Recursion | 20 Nov 2015 |
 | 18| Coding Quality | Fast Power | |
 
 ## US Giants
