@@ -25,7 +25,7 @@
 | 19| Thought of Solution | Binary Tree Postorder Traversal | 20 Nov 2015 |
 | 20| Thought of Solution | Convert Binary Search Tree to Doubly Linked List | 20 Nov 2015 |
 | 21| Thought of Solution | Copy List with Random Pointer | 20 Nov 2015 |
-| 22| Thought of Solution | Binary Tree Level Order Traversal | |
+| 22| Thought of Solution | Binary Tree Level Order Traversal | 20 Nov 2015 |
 | 23| Thought of Solution | Min Stack | |
 
 ## US Giants
