@@ -43,8 +43,8 @@
 |O8 | Thought of Solution | Binary Tree Preorder Traversal | |
 |O9 | Thought of Solution | Binary Tree Level Order Traversal II | |
 |O10| Optimize Time and Space | Majority Number III | |
-|O10| Optimize Time and Space | Majority Number II | |
-|O10| Optimize Time and Space | Maximum Subarray II | |
-|O10| Optimize Time and Space | Maximum Subarray III | |
+|O11| Optimize Time and Space | Majority Number II | |
+|O12| Optimize Time and Space | Maximum Subarray II | |
+|O13| Optimize Time and Space | Maximum Subarray III | |
 
 ## US Giants
