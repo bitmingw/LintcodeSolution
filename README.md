@@ -27,5 +27,24 @@
 | 21| Thought of Solution | Copy List with Random Pointer | 20 Nov 2015 |
 | 22| Thought of Solution | Binary Tree Level Order Traversal | 20 Nov 2015 |
 | 23| Thought of Solution | Min Stack | 20 Nov 2015 |
+| 24| Optimize Time and Space | Majority Number | |
+| 25| Optimize Time and Space | Maximum Subarray | |
+| 26| Optimize Time and Space | Intersection of Two Linked Lists | |
+| 27| Optimize Time and Space | Kth Largest Element | |
+| 28| Optimize Time and Space | Ugly Number | |
+| 29| Optimize Time and Space | Digit Counts | |
+|O1 | Basic Knowledge | Climbing Stairs | |
+|O2 | Basic Knowledge | Search a 2D Matrix | |
+|O3 | Basic Knowledge | Assignment Operator Overloading (C++) | |
+|O4 | Basic Knowledge | Find Minimum in Rotated Sorted Array II | |
+|O5 | Basic Knowledge | Construct Binary Tree from Inorder and Postorder Traversal | |
+|O6 | Basic Knowledge | Reverse Linked List II | |
+|O7 | Thought of Solution | Binary Tree Inorder Traversal | |
+|O8 | Thought of Solution | Binary Tree Preorder Traversal | |
+|O9 | Thought of Solution | Binary Tree Level Order Traversal II | |
+|O10| Optimize Time and Space | Majority Number III | |
+|O10| Optimize Time and Space | Majority Number II | |
+|O10| Optimize Time and Space | Maximum Subarray II | |
+|O10| Optimize Time and Space | Maximum Subarray III | |
 
 ## US Giants
