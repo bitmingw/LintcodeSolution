@@ -28,7 +28,7 @@
 | 22| Thought of Solution | Binary Tree Level Order Traversal | 20 Nov 2015 |
 | 23| Thought of Solution | Min Stack | 20 Nov 2015 |
 | 24| Optimize Time and Space | Majority Number | 24 Nov 2015 |
-| 25| Optimize Time and Space | Maximum Subarray | |
+| 25| Optimize Time and Space | Maximum Subarray | 24 Nov 2015 |
 | 26| Optimize Time and Space | Intersection of Two Linked Lists | |
 | 27| Optimize Time and Space | Kth Largest Element | |
 | 28| Optimize Time and Space | Ugly Number | |
