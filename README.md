@@ -31,7 +31,7 @@
 | 23| Thought of Solution | Min Stack | 20 Nov 2015 |
 | 24| Optimize Time and Space | Majority Number | 24 Nov 2015 |
 | 25| Optimize Time and Space | Maximum Subarray | 24 Nov 2015 |
-|25*| Optimize Time and Space | Spiral Matrix II | |
+|25*| Optimize Time and Space | Spiral Matrix II | 2 Dec 2015 |
 | 26| Optimize Time and Space | Intersection of Two Linked Lists | 24 Nov 2015 |
 | 27| Optimize Time and Space | Kth Largest Element | |
 | 28| Optimize Time and Space | Ugly Number | |
