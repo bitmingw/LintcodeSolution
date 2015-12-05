@@ -35,7 +35,7 @@
 | 26| Optimize Time and Space | Intersection of Two Linked Lists | 24 Nov 2015 |
 | 27| Optimize Time and Space | Kth Largest Element | 4 Dec 2015 |
 | 28| Optimize Time and Space | Ugly Number | 4 Dec 2015 |
-| 29| Optimize Time and Space | Digit Counts | |
+| 29| Optimize Time and Space | Digit Counts | 4 Dec 2015 |
 |O1 | Basic Knowledge | Climbing Stairs | |
 |O2 | Basic Knowledge | Search a 2D Matrix | |
 |O3 | Basic Knowledge | Assignment Operator Overloading (C++) | |
