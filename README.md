@@ -36,6 +36,13 @@
 | 27| Optimize Time and Space | Kth Largest Element | 4 Dec 2015 |
 | 28| Optimize Time and Space | Ugly Number | 4 Dec 2015 |
 | 29| Optimize Time and Space | Digit Counts | 4 Dec 2015 |
+| 30| Skills in Interview | Maximum Depth of Binary Tree | |
+| 31| Skills in Interview | Single Number | |
+| 32| Skills in Interview | Reverse Words in a String | |
+| 33| Skills in Interview | Rotate String | |
+| 34| Skills in Interview | A + B Problem | |
+| 35| Skills in Interview | Search for a Range | |
+| 36| Skills in Interview | Two Sum | |
 |O1 | Basic Knowledge | Climbing Stairs | |
 |O2 | Basic Knowledge | Search a 2D Matrix | |
 |O3 | Basic Knowledge | Assignment Operator Overloading (C++) | |
@@ -49,5 +56,7 @@
 |O11| Optimize Time and Space | Majority Number II | |
 |O12| Optimize Time and Space | Maximum Subarray II | |
 |O13| Optimize Time and Space | Maximum Subarray III | |
+|O14| Skills in Interview | Single Number III | |
+|O15| Skills in Interview | Single Number II | |
 
 ## US Giants
