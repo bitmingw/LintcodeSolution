@@ -33,7 +33,7 @@
 | 25| Optimize Time and Space | Maximum Subarray | 24 Nov 2015 |
 |25*| Optimize Time and Space | Spiral Matrix II | 2 Dec 2015 |
 | 26| Optimize Time and Space | Intersection of Two Linked Lists | 24 Nov 2015 |
-| 27| Optimize Time and Space | Kth Largest Element | |
+| 27| Optimize Time and Space | Kth Largest Element | 4 Dec 2015 |
 | 28| Optimize Time and Space | Ugly Number | |
 | 29| Optimize Time and Space | Digit Counts | |
 |O1 | Basic Knowledge | Climbing Stairs | |
