@@ -33,6 +33,5 @@ public:
 
 int main() {
     Solution s;
-    cout << s.digitCounts(1, 12) << endl; // should be 5
     return 0;
 }
