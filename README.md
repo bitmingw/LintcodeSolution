@@ -42,7 +42,7 @@
 | 32| Skills in Interview | Reverse Words in a String | 6 Dec 2015 |
 | 33| Skills in Interview | Rotate String | 13 Dec 2015 |
 | 34| Skills in Interview | A + B Problem | 13 Dec 2015 |
-| 35| Skills in Interview | Search for a Range | |
+| 35| Skills in Interview | Search for a Range | 13 Dec 2015 |
 | 36| Skills in Interview | Two Sum | |
 |O1 | Basic Knowledge | Climbing Stairs | |
 |O2 | Basic Knowledge | Search a 2D Matrix | |
