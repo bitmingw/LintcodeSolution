@@ -40,7 +40,7 @@
 | 30| Skills in Interview | Maximum Depth of Binary Tree | 6 Dec 2015 |
 | 31| Skills in Interview | Single Number | 6 Dec 2015 |
 | 32| Skills in Interview | Reverse Words in a String | 6 Dec 2015 |
-| 33| Skills in Interview | Rotate String | |
+| 33| Skills in Interview | Rotate String | 13 Dec 2015 |
 | 34| Skills in Interview | A + B Problem | |
 | 35| Skills in Interview | Search for a Range | |
 | 36| Skills in Interview | Two Sum | |
