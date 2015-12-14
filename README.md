@@ -1,6 +1,6 @@
 # LintCode Ladder
 
-## _Point 2 Offer_
+## _Coding Interviews_
 
 | Number | Part | Name | Complete Date |
 | ------:| ----:|:----:|:-------------:|
@@ -46,6 +46,15 @@
 | 36| Skills in Interview | Two Sum | 14 Dec 2015 |
 | 37| Two Interview Cases | Lowest Common Ancestor | 14 Dec 2015 |
 | 38| Two Interview Cases | String to Integer II | 14 Dec 2015 |
+| 39| English Version Only | Remove Duplicates from Sorted List | |
+| 40| English Version Only | Product of Array Exclude Itself | |
+| 41| English Version Only | Binary Tree ZigZag Level Order Traversal | |
+| 42| English Version Only | Binary Tree Level Order Traversal | 20 Nov 2015 |
+| 43| English Version Only | Binary Tree Serialization | |
+| 44| English Version Only | Wildcard Matching | |
+| 45| English Version Only | Linked List Cycle II | |
+| 46| English Version Only | Data Stream Median | |
+| 47| English Version Only | Sliding Window Maximum | |
 |O1 | Basic Knowledge | Climbing Stairs | |
 |O2 | Basic Knowledge | Search a 2D Matrix | |
 |O3 | Basic Knowledge | Assignment Operator Overloading (C++) | |
@@ -61,5 +70,8 @@
 |O13| Optimize Time and Space | Maximum Subarray III | |
 |O14| Skills in Interview | Single Number III | |
 |O15| Skills in Interview | Single Number II | |
+|O16| English Version Only | Remove Duplicates from Sorted List II | |
+|O17| English Version Only | Linked List Cycle | |
+|O18| English Version Only | Sliding Window Median | |
 
 ## US Giants
