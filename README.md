@@ -45,7 +45,7 @@
 | 35| Skills in Interview | Search for a Range | 13 Dec 2015 |
 | 36| Skills in Interview | Two Sum | 14 Dec 2015 |
 | 37| Two Interview Cases | Lowest Common Ancestor | 14 Dec 2015 |
-| 38| Two Interview Cases | String to Integer II | |
+| 38| Two Interview Cases | String to Integer II | 14 Dec 2015 |
 |O1 | Basic Knowledge | Climbing Stairs | |
 |O2 | Basic Knowledge | Search a 2D Matrix | |
 |O3 | Basic Knowledge | Assignment Operator Overloading (C++) | |
