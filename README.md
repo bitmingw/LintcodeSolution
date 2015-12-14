@@ -43,7 +43,7 @@
 | 33| Skills in Interview | Rotate String | 13 Dec 2015 |
 | 34| Skills in Interview | A + B Problem | 13 Dec 2015 |
 | 35| Skills in Interview | Search for a Range | 13 Dec 2015 |
-| 36| Skills in Interview | Two Sum | |
+| 36| Skills in Interview | Two Sum | 14 Dec 2015 |
 |O1 | Basic Knowledge | Climbing Stairs | |
 |O2 | Basic Knowledge | Search a 2D Matrix | |
 |O3 | Basic Knowledge | Assignment Operator Overloading (C++) | |
