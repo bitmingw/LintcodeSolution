@@ -48,7 +48,7 @@
 | 38| Two Interview Cases | String to Integer II | 14 Dec 2015 |
 | 39| English Version Only | Remove Duplicates from Sorted List | 14 Dec 2015 |
 | 40| English Version Only | Product of Array Exclude Itself | 14 Dec 2015 |
-| 41| English Version Only | Binary Tree ZigZag Level Order Traversal | |
+| 41| English Version Only | Binary Tree ZigZag Level Order Traversal | 14 Dec 2015 |
 | 42| English Version Only | Binary Tree Level Order Traversal | 20 Nov 2015 |
 | 43| English Version Only | Binary Tree Serialization | |
 | 44| English Version Only | Wildcard Matching | |
