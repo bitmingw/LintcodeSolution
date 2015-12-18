@@ -83,5 +83,5 @@
 |  3 | String | strStr | 18 Dec 2015 |
 |  4 | String | Anagrams | 18 Dec 2015 |
 |  5 | String | Longest Common Substring | 18 Dec 2015 |
-|  6 | String | Longest Common Prefix | |
+|  6 | String | Longest Common Prefix | 18 Dec 2015 |
 | O1 | String | String to Integer II | 14 Dec 2015 |
