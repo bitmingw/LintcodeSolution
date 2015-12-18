@@ -84,4 +84,18 @@
 |  4 | String | Anagrams | 18 Dec 2015 |
 |  5 | String | Longest Common Substring | 18 Dec 2015 |
 |  6 | String | Longest Common Prefix | 18 Dec 2015 |
+|  7 | Integer Array | Remove Element | |
+|  8 | Integer Array | Subarray Sum | |
+|  9 | Integer Array | Remove Duplicates from Sorted Array | |
+| 10 | Integer Array | Merge Sorted Array | |
+| 11 | Integer Array | Product of Array Exclude Itself | 14 Dec 2015 |
+| 12 | Integer Array | First Missing Positive | |
+| 13 | Integer Array | 3Sum Closest | |
+| 14 | Integer Array | 3Sum | |
+| 15 | Integer Array | Two Sum | 14 Dec 2015 |
+| 16 | Integer Array | Partition Array | |
 | O1 | String | String to Integer II | 14 Dec 2015 |
+| O2 | Integer Array | Remove Duplicates from Sorted Array | |
+| O3 | Integer Array | Merge Sorted Array II | |
+| O4 | Integer Array | Subarray Sum Closest | |
+| O5 | Integer Array | 4Sum | |
