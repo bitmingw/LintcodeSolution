@@ -75,3 +75,12 @@
 |O18| English Version Only | Sliding Window Median | |
 
 ## US Giants
+
+| Number | Part | Name | Complete Date |
+| ------:| ----:|:----:|:-------------:|
+|  1 | String | Two Strings Are Anagrams | |
+|  2 | String | Compare Strings | |
+|  3 | String | strStr | |
+|  4 | String | Anagrams | |
+|  5 | String | Longest Common Substring | |
+|  6 | String | Longest Common Prefix | |
