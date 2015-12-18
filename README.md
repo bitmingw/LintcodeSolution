@@ -84,7 +84,7 @@
 |  4 | String | Anagrams | 18 Dec 2015 |
 |  5 | String | Longest Common Substring | 18 Dec 2015 |
 |  6 | String | Longest Common Prefix | 18 Dec 2015 |
-|  7 | Integer Array | Remove Element | |
+|  7 | Integer Array | Remove Element | 18 Dec 2015 |
 |  8 | Integer Array | Subarray Sum | |
 |  9 | Integer Array | Remove Duplicates from Sorted Array | |
 | 10 | Integer Array | Merge Sorted Array | |
