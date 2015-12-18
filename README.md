@@ -79,7 +79,7 @@
 | Number | Part | Name | Complete Date |
 | ------:| ----:|:----:|:-------------:|
 |  1 | String | Two Strings Are Anagrams | 18 Dec 2015 |
-|  2 | String | Compare Strings | |
+|  2 | String | Compare Strings | 18 Dec 2015 |
 |  3 | String | strStr | |
 |  4 | String | Anagrams | |
 |  5 | String | Longest Common Substring | |
