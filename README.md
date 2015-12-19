@@ -90,7 +90,7 @@
 | 10 | Integer Array | Merge Sorted Array | 19 Dec 2015 |
 | 11 | Integer Array | Product of Array Exclude Itself | 14 Dec 2015 |
 | 12 | Integer Array | First Missing Positive | 19 Dec 2015 |
-| 13 | Integer Array | 3Sum Closest | |
+| 13 | Integer Array | 3Sum Closest | 19 Dec 2015 |
 | 14 | Integer Array | 3Sum | |
 | 15 | Integer Array | Two Sum | 14 Dec 2015 |
 | 16 | Integer Array | Partition Array | |
