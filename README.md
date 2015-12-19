@@ -93,7 +93,7 @@
 | 13 | Integer Array | 3Sum Closest | 19 Dec 2015 |
 | 14 | Integer Array | 3Sum | 19 Dec 2015 |
 | 15 | Integer Array | Two Sum | 14 Dec 2015 |
-| 16 | Integer Array | Partition Array | |
+| 16 | Integer Array | Partition Array | 19 Dec 2015 |
 | O1 | String | String to Integer II | 14 Dec 2015 |
 | O2 | Integer Array | Remove Duplicates from Sorted Array | |
 | O3 | Integer Array | Merge Sorted Array II | |
