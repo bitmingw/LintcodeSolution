@@ -89,7 +89,7 @@
 |  9 | Integer Array | Remove Duplicates from Sorted Array | 19 Dec 2015 |
 | 10 | Integer Array | Merge Sorted Array | 19 Dec 2015 |
 | 11 | Integer Array | Product of Array Exclude Itself | 14 Dec 2015 |
-| 12 | Integer Array | First Missing Positive | |
+| 12 | Integer Array | First Missing Positive | 19 Dec 2015 |
 | 13 | Integer Array | 3Sum Closest | |
 | 14 | Integer Array | 3Sum | |
 | 15 | Integer Array | Two Sum | 14 Dec 2015 |
