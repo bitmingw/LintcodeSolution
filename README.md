@@ -94,8 +94,21 @@
 | 14 | Integer Array | 3Sum | 19 Dec 2015 |
 | 15 | Integer Array | Two Sum | 14 Dec 2015 |
 | 16 | Integer Array | Partition Array | 19 Dec 2015 |
+| 17 | Binary Search | Sqrt(x) | |
+| 18 | Binary Search | Search Insert Position | |
+| 19 | Binary Search | Search a 2D Matrix | |
+| 20 | Binary Search | First Position of Target | |
+| 21 | Binary Search | Wood Cut | |
+| 22 | Binary Search | Find Minimum in Rotated Sorted Array | 28 Oct 2015 |
+| 23 | Binary Search | Find Peak Element | |
+| 24 | Binary Search | First Bad Version | |
+| 25 | Binary Search | Search in Rotated Sorted Array | |
+| 26 | Binary Search | Search for a Range | 13 Dec 2015 |
 | O1 | String | String to Integer II | 14 Dec 2015 |
 | O2 | Integer Array | Remove Duplicates from Sorted Array | |
 | O3 | Integer Array | Merge Sorted Array II | |
 | O4 | Integer Array | Subarray Sum Closest | |
 | O5 | Integer Array | 4Sum | |
+| O6 | Binary Search | Find Minimum in Rotated Sorted Array II | |
+| O7 | Binary Search | Search in Rotated Sorted Array II | |
+| O8 | Binary Search | Search a 2D Matrix II | 28 Oct 2015 |
