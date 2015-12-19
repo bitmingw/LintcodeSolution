@@ -86,7 +86,7 @@
 |  6 | String | Longest Common Prefix | 18 Dec 2015 |
 |  7 | Integer Array | Remove Element | 18 Dec 2015 |
 |  8 | Integer Array | Subarray Sum | 18 Dec 2015 |
-|  9 | Integer Array | Remove Duplicates from Sorted Array | |
+|  9 | Integer Array | Remove Duplicates from Sorted Array | 19 Dec 2015 |
 | 10 | Integer Array | Merge Sorted Array | |
 | 11 | Integer Array | Product of Array Exclude Itself | 14 Dec 2015 |
 | 12 | Integer Array | First Missing Positive | |
