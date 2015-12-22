@@ -111,7 +111,7 @@
 |058| 4Sum | |
 |   | Binary Search | - |
 |141| Sqrt(x) | 22 Dec 2015 |
-|060| Search Insert Position | |
+|060| Search Insert Position | 22 Dec 2015 |
 |028| Search a 2D Matrix | |
 |014| First Position of Target | |
 |183| Wood Cut | |
