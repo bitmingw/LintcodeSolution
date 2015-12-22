@@ -110,7 +110,7 @@
 |139| Subarray Sum Closest | |
 |058| 4Sum | |
 |   | Binary Search | - |
-|141| Sqrt(x) | |
+|141| Sqrt(x) | 22 Dec 2015 |
 |060| Search Insert Position | |
 |028| Search a 2D Matrix | |
 |014| First Position of Target | |
