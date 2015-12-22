@@ -4,9 +4,9 @@
 
 | Number | Name | Complete Date |
 |:------:|:----:|:-------------:|
-|   | Interview Flow | |
+|   | Interview Flow | - |
 |009| Fizz Buzz | 21 Oct 2015 |
-|   | Basic Knowledge | |
+|   | Basic Knowledge | - |
 |366| Fibonacci | 23 Oct 2015 |
 |212| Space Replacement | 23 Oct 2015 |
 |365| Count 1 in Binary | 23 Oct 2015 |
@@ -16,13 +16,13 @@
 |073| Construct Binary Tree from Preorder and Inorder Traversal | 28 Oct 2015 |
 |040| Implement Queue by Two Stacks | 28 Oct 2015 |
 |038| Search a 2D Matrix II | 28 Oct 2015 |
-|111| Basic Knowledge | Climbing Stairs | |
-|028| Basic Knowledge | Search a 2D Matrix | |
-|208| Basic Knowledge | Assignment Operator Overloading (C++) | |
-|160| Basic Knowledge | Find Minimum in Rotated Sorted Array II | |
-|072| Basic Knowledge | Construct Binary Tree from Inorder and Postorder Traversal | |
-|036| Basic Knowledge | Reverse Linked List II | |
-|   | Coding Quality | |
+|111| Climbing Stairs | |
+|028| Search a 2D Matrix | |
+|208| Assignment Operator Overloading (C++) | |
+|160| Find Minimum in Rotated Sorted Array II | |
+|072| Construct Binary Tree from Inorder and Postorder Traversal | |
+|036| Reverse Linked List II | |
+|   | Coding Quality | - |
 |373| Partition Odd and Even | 14 Nov 2015 |
 |372| Delete Middle Node | 14 Nov 2015 |
 |245| Subtree | 20 Nov 2015 |
@@ -31,7 +31,7 @@
 |035| Reverse Linked List | 28 Oct 2015 |
 |371| Print Numbers By Recursion | 20 Nov 2015 |
 |140| Fast Power | 20 Nov 2015 |
-|   | Thought of Solution | |
+|   | Thought of Solution | - |
 |376| Binary Tree Path Sum | 1 Dec 2015 |
 |211| String Permutation | 13 Dec 2015 |
 |068| Binary Tree Postorder Traversal | 20 Nov 2015 |
@@ -43,7 +43,7 @@
 |067| Binary Tree Inorder Traversal | |
 |066| Binary Tree Preorder Traversal | |
 |070| Binary Tree Level Order Traversal II | |
-|   | Optimize Time and Space | |
+|   | Optimize Time and Space | - |
 |046| Majority Number | 24 Nov 2015 |
 |041| Maximum Subarray | 24 Nov 2015 |
 |381| Spiral Matrix II | 2 Dec 2015 |
@@ -55,7 +55,7 @@
 |047| Majority Number II | |
 |042| Maximum Subarray II | |
 |043| Maximum Subarray III | |
-|   | Skills in Interview | |
+|   | Skills in Interview | - |
 |097| Maximum Depth of Binary Tree | 6 Dec 2015 |
 |082| Single Number | 6 Dec 2015 |
 |053| Reverse Words in a String | 6 Dec 2015 |
@@ -65,10 +65,10 @@
 |056| Two Sum | 14 Dec 2015 |
 |084| Single Number III | |
 |083| Single Number II | |
-|   | Two Interview Cases | |
-| 37| Lowest Common Ancestor | 14 Dec 2015 |
-| 38| String to Integer II | 14 Dec 2015 |
-|   | English Version Only | |
+|   | Two Interview Cases | - |
+|037| Lowest Common Ancestor | 14 Dec 2015 |
+|038| String to Integer II | 14 Dec 2015 |
+|   | English Version Only | - |
 |112| Remove Duplicates from Sorted List | 14 Dec 2015 |
 |050| Product of Array Exclude Itself | 14 Dec 2015 |
 |071| Binary Tree ZigZag Level Order Traversal | 14 Dec 2015 |
