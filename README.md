@@ -112,7 +112,7 @@
 |   | Binary Search | - |
 |141| Sqrt(x) | 22 Dec 2015 |
 |060| Search Insert Position | 22 Dec 2015 |
-|028| Search a 2D Matrix | |
+|028| Search a 2D Matrix | 22 Dec 2015 |
 |014| First Position of Target | |
 |183| Wood Cut | |
 |159| Find Minimum in Rotated Sorted Array | 28 Oct 2015 |
