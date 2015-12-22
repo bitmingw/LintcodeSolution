@@ -84,39 +84,42 @@
 
 ## US Giants
 
-| Number | Part | Name | Complete Date |
-| ------:| ----:|:----:|:-------------:|
-|  1 | String | Two Strings Are Anagrams | 18 Dec 2015 |
-|  2 | String | Compare Strings | 18 Dec 2015 |
-|  3 | String | strStr | 18 Dec 2015 |
-|  4 | String | Anagrams | 18 Dec 2015 |
-|  5 | String | Longest Common Substring | 18 Dec 2015 |
-|  6 | String | Longest Common Prefix | 18 Dec 2015 |
-|  7 | Integer Array | Remove Element | 18 Dec 2015 |
-|  8 | Integer Array | Subarray Sum | 18 Dec 2015 |
-|  9 | Integer Array | Remove Duplicates from Sorted Array | 19 Dec 2015 |
-| 10 | Integer Array | Merge Sorted Array | 19 Dec 2015 |
-| 11 | Integer Array | Product of Array Exclude Itself | 14 Dec 2015 |
-| 12 | Integer Array | First Missing Positive | 19 Dec 2015 |
-| 13 | Integer Array | 3Sum Closest | 19 Dec 2015 |
-| 14 | Integer Array | 3Sum | 19 Dec 2015 |
-| 15 | Integer Array | Two Sum | 14 Dec 2015 |
-| 16 | Integer Array | Partition Array | 19 Dec 2015 |
-| 17 | Binary Search | Sqrt(x) | |
-| 18 | Binary Search | Search Insert Position | |
-| 19 | Binary Search | Search a 2D Matrix | |
-| 20 | Binary Search | First Position of Target | |
-| 21 | Binary Search | Wood Cut | |
-| 22 | Binary Search | Find Minimum in Rotated Sorted Array | 28 Oct 2015 |
-| 23 | Binary Search | Find Peak Element | |
-| 24 | Binary Search | First Bad Version | |
-| 25 | Binary Search | Search in Rotated Sorted Array | |
-| 26 | Binary Search | Search for a Range | 13 Dec 2015 |
-| O1 | String | String to Integer II | 14 Dec 2015 |
-| O2 | Integer Array | Remove Duplicates from Sorted Array | |
-| O3 | Integer Array | Merge Sorted Array II | |
-| O4 | Integer Array | Subarray Sum Closest | |
-| O5 | Integer Array | 4Sum | |
-| O6 | Binary Search | Find Minimum in Rotated Sorted Array II | |
-| O7 | Binary Search | Search in Rotated Sorted Array II | |
-| O8 | Binary Search | Search a 2D Matrix II | 28 Oct 2015 |
+| Number | Name | Complete Date |
+|:------:|:----:|:-------------:|
+|   | String | - |
+|158| Two Strings Are Anagrams | 18 Dec 2015 |
+|055| Compare Strings | 18 Dec 2015 |
+|013| strStr | 18 Dec 2015 |
+|171| Anagrams | 18 Dec 2015 |
+|079| Longest Common Substring | 18 Dec 2015 |
+|078| Longest Common Prefix | 18 Dec 2015 |
+|054| String to Integer II | 14 Dec 2015 |
+|   | Integer Array | - |
+|172| Remove Element | 18 Dec 2015 |
+|138| Subarray Sum | 18 Dec 2015 |
+|100| Remove Duplicates from Sorted Array | 19 Dec 2015 |
+|064| Merge Sorted Array | 19 Dec 2015 |
+|050| Product of Array Exclude Itself | 14 Dec 2015 |
+|189| First Missing Positive | 19 Dec 2015 |
+|059| 3Sum Closest | 19 Dec 2015 |
+|057| 3Sum | 19 Dec 2015 |
+|056| Two Sum | 14 Dec 2015 |
+|031| Partition Array | 19 Dec 2015 |
+|101| Remove Duplicates from Sorted Array | |
+|006| Merge Sorted Array II | |
+|139| Subarray Sum Closest | |
+|058| 4Sum | |
+|   | Binary Search | - |
+|141| Sqrt(x) | |
+|060| Search Insert Position | |
+|028| Search a 2D Matrix | |
+|014| First Position of Target | |
+|183| Wood Cut | |
+|159| Find Minimum in Rotated Sorted Array | 28 Oct 2015 |
+|075| Find Peak Element | |
+|074| First Bad Version | |
+|062| Search in Rotated Sorted Array | |
+|061| Search for a Range | 13 Dec 2015 |
+|160| Find Minimum in Rotated Sorted Array II | |
+|063| Search in Rotated Sorted Array II | |
+|038| Search a 2D Matrix II | 28 Oct 2015 |
