@@ -123,3 +123,12 @@
 |160| Find Minimum in Rotated Sorted Array II | |
 |063| Search in Rotated Sorted Array II | |
 |038| Search a 2D Matrix II | 28 Oct 2015 |
+|   | Math & Bit Manipulation | - |
+|181| Flip Bits | |
+|142| O(1) Check Power of 2 | |
+|114| Unique Paths | |
+|002| Trailing Zeros | |
+|179| Update Bits | |
+|163| Unique Binary Search Trees | |
+|140| Fast Power | 20 Nov 2015 |
+|180| Binary Representation | |
