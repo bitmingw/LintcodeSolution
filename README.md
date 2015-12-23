@@ -118,7 +118,7 @@
 |159| Find Minimum in Rotated Sorted Array | 28 Oct 2015 |
 |075| Find Peak Element | 22 Dec 2015 |
 |074| First Bad Version | 22 Dec 2015 |
-|062| Search in Rotated Sorted Array | |
+|062| Search in Rotated Sorted Array | 22 Dec 2015 |
 |061| Search for a Range | 13 Dec 2015 |
 |160| Find Minimum in Rotated Sorted Array II | |
 |063| Search in Rotated Sorted Array II | |
