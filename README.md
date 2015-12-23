@@ -128,7 +128,7 @@
 |142| O(1) Check Power of 2 | 23 Dec 2015 |
 |114| Unique Paths | 23 Dec 2015 |
 |002| Trailing Zeros | 23 Dec 2015 |
-|179| Update Bits | |
+|179| Update Bits | 23 Dec 2015 |
 |163| Unique Binary Search Trees | |
 |140| Fast Power | 20 Nov 2015 |
 |180| Binary Representation | |
