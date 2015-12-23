@@ -125,7 +125,7 @@
 |038| Search a 2D Matrix II | 28 Oct 2015 |
 |   | Math & Bit Manipulation | - |
 |181| Flip Bits | 23 Dec 2015 |
-|142| O(1) Check Power of 2 | |
+|142| O(1) Check Power of 2 | 23 Dec 2015 |
 |114| Unique Paths | |
 |002| Trailing Zeros | |
 |179| Update Bits | |
