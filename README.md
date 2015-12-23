@@ -126,7 +126,7 @@
 |   | Math & Bit Manipulation | - |
 |181| Flip Bits | 23 Dec 2015 |
 |142| O(1) Check Power of 2 | 23 Dec 2015 |
-|114| Unique Paths | |
+|114| Unique Paths | 23 Dec 2015 |
 |002| Trailing Zeros | |
 |179| Update Bits | |
 |163| Unique Binary Search Trees | |
