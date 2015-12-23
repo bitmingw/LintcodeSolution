@@ -114,7 +114,7 @@
 |060| Search Insert Position | 22 Dec 2015 |
 |028| Search a 2D Matrix | 22 Dec 2015 |
 |014| First Position of Target | 22 Dec 2015 |
-|183| Wood Cut | |
+|183| Wood Cut | 22 Dec 2015 |
 |159| Find Minimum in Rotated Sorted Array | 28 Oct 2015 |
 |075| Find Peak Element | |
 |074| First Bad Version | |
