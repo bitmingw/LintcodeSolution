@@ -132,3 +132,16 @@
 |163| Unique Binary Search Trees | 23 Dec 2015 |
 |140| Fast Power | 20 Nov 2015 |
 |180| Binary Representation | 25 Dec 2015 |
+|   | Greedy | - |
+|082| Single Number | 6 Dec 2015 |
+|046| Majority Number | 24 Nov 2015 |
+|187| Gas Station | |
+|184| Largest Number | |
+|182| Delete Digits | |
+|116| Jump Game | |
+|052| Next Permutation | |
+|117| Jump Game II | |
+|084| Single Number III | |
+|083| Single Number II | |
+|048| Majority Number III | |
+|047| Majority Number II | |
