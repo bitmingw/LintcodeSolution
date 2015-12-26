@@ -137,7 +137,7 @@
 |046| Majority Number | 24 Nov 2015 |
 |187| Gas Station | 25 Dec 2015 |
 |184| Largest Number | 26 Dec 2015 |
-|182| Delete Digits | |
+|182| Delete Digits | 26 Dec 2015 |
 |116| Jump Game | |
 |052| Next Permutation | |
 |117| Jump Game II | |
