@@ -138,7 +138,7 @@
 |187| Gas Station | 25 Dec 2015 |
 |184| Largest Number | 26 Dec 2015 |
 |182| Delete Digits | 26 Dec 2015 |
-|116| Jump Game | |
+|116| Jump Game | 26 Dec 2015 |
 |052| Next Permutation | |
 |117| Jump Game II | |
 |084| Single Number III | |
