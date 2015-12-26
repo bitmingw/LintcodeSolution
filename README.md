@@ -136,7 +136,7 @@
 |082| Single Number | 6 Dec 2015 |
 |046| Majority Number | 24 Nov 2015 |
 |187| Gas Station | 25 Dec 2015 |
-|184| Largest Number | |
+|184| Largest Number | 26 Dec 2015 |
 |182| Delete Digits | |
 |116| Jump Game | |
 |052| Next Permutation | |
