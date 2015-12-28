@@ -145,3 +145,20 @@
 |083| Single Number II | |
 |048| Majority Number III | |
 |047| Majority Number II | |
+|   | Linked List | - |
+|174| Remove Nth Node From End of List | 20 Nov 2015 |
+|165| Merge Two Sorted Lists | 20 Nov 2015 |
+|112| Remove Duplicates from Sorted List | 14 Dec 2015 |
+|096| Partition List | |
+|035| Reverse Linked List | 28 Oct 2015 |
+|170| Rotate List | |
+|106| Convert Sorted List to Balanced BST | |
+|105| Copy List with Random Pointer | 20 Nov 2015 |
+|102| Linked List Cycle | |
+|099| Reorder List | |
+|098| Sort List | |
+|167| Add Two Numbers | |
+|166| Nth to Last Node in List | |
+|113| Remove Duplicates from Sorted List II | |
+|036| Reverse Linked List II | |
+|103| Linked List Cycle II | |
