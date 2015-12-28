@@ -139,7 +139,7 @@
 |184| Largest Number | 26 Dec 2015 |
 |182| Delete Digits | 26 Dec 2015 |
 |116| Jump Game | 26 Dec 2015 |
-|052| Next Permutation | |
+|052| Next Permutation | 27 Dec 2015 |
 |117| Jump Game II | |
 |084| Single Number III | |
 |083| Single Number II | |
