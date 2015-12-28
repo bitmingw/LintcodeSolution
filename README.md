@@ -16,8 +16,8 @@
 |073| Construct Binary Tree from Preorder and Inorder Traversal | 28 Oct 2015 |
 |040| Implement Queue by Two Stacks | 28 Oct 2015 |
 |038| Search a 2D Matrix II | 28 Oct 2015 |
-|111| Climbing Stairs | |
-|028| Search a 2D Matrix | |
+|111| Climbing Stairs | 28 Dec 2015 |
+|028| Search a 2D Matrix | 22 Dec 2015 |
 |208| Assignment Operator Overloading (C++) | |
 |160| Find Minimum in Rotated Sorted Array II | |
 |072| Construct Binary Tree from Inorder and Postorder Traversal | |
