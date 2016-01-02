@@ -19,7 +19,7 @@
 |111| Climbing Stairs | 28 Dec 2015 |
 |028| Search a 2D Matrix | 22 Dec 2015 |
 |208| Assignment Operator Overloading (C++) | 2 Jan 2016 |
-|160| Find Minimum in Rotated Sorted Array II | |
+|160| Find Minimum in Rotated Sorted Array II | 2 Jan 2016 |
 |072| Construct Binary Tree from Inorder and Postorder Traversal | |
 |036| Reverse Linked List II | |
 |   | Coding Quality | - |
