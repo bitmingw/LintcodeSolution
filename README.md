@@ -40,7 +40,7 @@
 |105| Copy List with Random Pointer | 20 Nov 2015 |
 |069| Binary Tree Level Order Traversal | 20 Nov 2015 |
 |012| Min Stack | 20 Nov 2015 |
-|067| Binary Tree Inorder Traversal | |
+|067| Binary Tree Inorder Traversal | 2 Jan 2016 |
 |066| Binary Tree Preorder Traversal | |
 |070| Binary Tree Level Order Traversal II | |
 |   | Optimize Time and Space | - |
