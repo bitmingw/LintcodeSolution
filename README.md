@@ -21,7 +21,7 @@
 |208| Assignment Operator Overloading (C++) | 2 Jan 2016 |
 |160| Find Minimum in Rotated Sorted Array II | 2 Jan 2016 |
 |072| Construct Binary Tree from Inorder and Postorder Traversal | 2 Jan 2016 |
-|036| Reverse Linked List II | |
+|036| Reverse Linked List II | 2 Jan 2016 |
 |   | Coding Quality | - |
 |373| Partition Odd and Even | 14 Nov 2015 |
 |372| Delete Middle Node | 14 Nov 2015 |
