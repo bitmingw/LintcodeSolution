@@ -42,7 +42,7 @@
 |012| Min Stack | 20 Nov 2015 |
 |067| Binary Tree Inorder Traversal | 2 Jan 2016 |
 |066| Binary Tree Preorder Traversal | 2 Jan 2016 |
-|070| Binary Tree Level Order Traversal II | |
+|070| Binary Tree Level Order Traversal II | 2 Jan 2016 |
 |   | Optimize Time and Space | - |
 |046| Majority Number | 24 Nov 2015 |
 |041| Maximum Subarray | 24 Nov 2015 |
