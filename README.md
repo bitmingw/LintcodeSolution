@@ -51,7 +51,7 @@
 |005| Kth Largest Element | 4 Dec 2015 |
 |004| Ugly Number | 4 Dec 2015 |
 |003| Digit Counts | 4 Dec 2015 |
-|048| Majority Number III | |
+|048| Majority Number III | 2 Jan 2016 |
 |047| Majority Number II | |
 |042| Maximum Subarray II | |
 |043| Maximum Subarray III | |
