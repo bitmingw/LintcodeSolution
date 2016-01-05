@@ -63,7 +63,7 @@
 |001| A + B Problem | 13 Dec 2015 |
 |061| Search for a Range | 13 Dec 2015 |
 |056| Two Sum | 14 Dec 2015 |
-|084| Single Number III | |
+|084| Single Number III | 4 Jan 2016 |
 |083| Single Number II | |
 |   | Two Interview Cases | - |
 |037| Lowest Common Ancestor | 14 Dec 2015 |
