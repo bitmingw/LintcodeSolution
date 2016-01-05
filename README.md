@@ -78,7 +78,7 @@
 |103| Linked List Cycle II | |
 |081| Data Stream Median | |
 |362| Sliding Window Maximum | |
-|113| Remove Duplicates from Sorted List II | |
+|113| Remove Duplicates from Sorted List II | 4 Jan 2016 |
 |102| Linked List Cycle | |
 |360| Sliding Window Median | |
 
