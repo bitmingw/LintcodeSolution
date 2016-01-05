@@ -149,7 +149,7 @@
 |174| Remove Nth Node From End of List | 20 Nov 2015 |
 |165| Merge Two Sorted Lists | 20 Nov 2015 |
 |112| Remove Duplicates from Sorted List | 14 Dec 2015 |
-|096| Partition List | |
+|096| Partition List | 5 Jan 2016 |
 |035| Reverse Linked List | 28 Oct 2015 |
 |170| Rotate List | |
 |106| Convert Sorted List to Balanced BST | |
