@@ -1,51 +1,46 @@
-#include <string>
-#include <vector>
+#include <cstring>
 #include <iostream>
-#include <algorithm>
 using namespace std;
 
 class Solution {
 public:
-    /*
-     * @param numbers : An array of Integer
-     * @param target : target = numbers[index1] + numbers[index2]
-     * @return : [index1+1, index2+1] (index1 < index2)
+    /**
+     * @param s: A string
+     * @param p: A string includes "?" and "*"
+     * @return: A boolean
      */
-    vector<int> twoSum(vector<int> &nums, int target) {
-        vector<int> sorted_nums(nums);
-        vector<int> result;
-        int sorted_idx1 = -1, sorted_idx2 = -1, idx1 = -1, idx2 = -1;
-        sort(sorted_nums.begin(), sorted_nums.end());
-        int to_find, sorted_idx;
-        for (int i = 0; i < sorted_nums.size(); ++i) {
-            to_find = target - sorted_nums[i];
-            sorted_idx = binSearch(sorted_nums, to_find, i+1, sorted_nums.size()-1);
-            if (sorted_idx > 0) {
-                sorted_idx1 = i;
-                sorted_idx2 = sorted_idx;
-                break;
+    bool isMatch(const char *s, const char *p) {
+        int len1 = strlen(s);
+        int len2 = strlen(p);
+        int p1 = 0, p2 = 0;
+        while (p1 < len1 && p2 < len2) {
+            if (p[p2] == '?') {
+                ++p1;
+                ++p2;
+                continue;
+            } else if (p[p2] != '*' && s[p1] == p[p2]) {
+                ++p1;
+                ++p2;
+                continue;
+            } else if (p[p2] != '*' && s[p1] != p[p2]) {
+                return false;
+            } else {
+                // p[p2] == '*'
+                if (p2+1 < len2 && p[p2+1] == '*') {
+                    // remove duplicate *
+                    ++p2;
+                    continue;
+                }
+                bool match = false;
+                for (int pn = p1; pn <= len1; ++pn) {
+                    match = isMatch(s+pn, p+p2+1);
+                    if (match) return true;
+                }
+                return false;
             }
         }
-        // find indices in original vector
-        for (int i = 0; i < nums.size(); ++i) {
-            if (nums[i] == sorted_nums[sorted_idx1])
-                idx1 = i;
-            if (nums[i] == sorted_nums[sorted_idx2])
-                idx2 = i;
-            if (idx1 >= 0 && idx2 >= 0)
-                break;
-        }
-        result.push_back(min(idx1, idx2)+1);
-        result.push_back(max(idx1, idx2)+1);
-        return result;
-    }
-    
-    int binSearch(vector<int>& vec, int target, int lo, int hi) {
-        if (lo > hi) return -1;
-        int mi = (lo + hi) / 2;
-        if (vec[mi] == target) return mi;
-        else if (vec[mi] < target) return binSearch(vec, target, mi+1, hi);
-        else return binSearch(vec, target, lo, mi-1);
+        if (p1 != len1-1 || p2 != len2-1) return false;
+        else return true;
     }
 };
 
