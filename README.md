@@ -64,7 +64,7 @@
 |061| Search for a Range | 13 Dec 2015 |
 |056| Two Sum | 14 Dec 2015 |
 |084| Single Number III | 4 Jan 2016 |
-|083| Single Number II | |
+|083| Single Number II | 4 Jan 2016 |
 |   | Two Interview Cases | - |
 |037| Lowest Common Ancestor | 14 Dec 2015 |
 |038| String to Integer II | 14 Dec 2015 |
