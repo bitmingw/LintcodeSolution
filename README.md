@@ -54,7 +54,7 @@
 |048| Majority Number III | 2 Jan 2016 |
 |047| Majority Number II | 2 Jan 2016 |
 |042| Maximum Subarray II | 4 Jan 2016 |
-|043| Maximum Subarray III | |
+|043| Maximum Subarray III | 4 Jan 2016 |
 |   | Skills in Interview | - |
 |097| Maximum Depth of Binary Tree | 6 Dec 2015 |
 |082| Single Number | 6 Dec 2015 |
