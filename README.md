@@ -152,7 +152,7 @@
 |096| Partition List | 5 Jan 2016 |
 |035| Reverse Linked List | 28 Oct 2015 |
 |170| Rotate List | 5 Jan 2016 |
-|106| Convert Sorted List to Balanced BST | |
+|106| Convert Sorted List to Balanced BST | 5 Jan 2016 |
 |105| Copy List with Random Pointer | 20 Nov 2015 |
 |102| Linked List Cycle | 4 Jan 2016 |
 |099| Reorder List | |
