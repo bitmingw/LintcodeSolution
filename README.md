@@ -66,8 +66,8 @@
 |084| Single Number III | 4 Jan 2016 |
 |083| Single Number II | 4 Jan 2016 |
 |   | Two Interview Cases | - |
-|037| Lowest Common Ancestor | 14 Dec 2015 |
-|038| String to Integer II | 14 Dec 2015 |
+|088| Lowest Common Ancestor | 14 Dec 2015 |
+|054| String to Integer II | 14 Dec 2015 |
 |   | English Version Only | - |
 |112| Remove Duplicates from Sorted List | 14 Dec 2015 |
 |050| Product of Array Exclude Itself | 14 Dec 2015 |
@@ -120,7 +120,7 @@
 |074| First Bad Version | 22 Dec 2015 |
 |062| Search in Rotated Sorted Array | 22 Dec 2015 |
 |061| Search for a Range | 13 Dec 2015 |
-|160| Find Minimum in Rotated Sorted Array II | |
+|160| Find Minimum in Rotated Sorted Array II | 2 Jan 2016 |
 |063| Search in Rotated Sorted Array II | |
 |038| Search a 2D Matrix II | 28 Oct 2015 |
 |   | Math & Bit Manipulation | - |
@@ -141,10 +141,10 @@
 |116| Jump Game | 26 Dec 2015 |
 |052| Next Permutation | 27 Dec 2015 |
 |117| Jump Game II | |
-|084| Single Number III | |
-|083| Single Number II | |
-|048| Majority Number III | |
-|047| Majority Number II | |
+|084| Single Number III | 4 Jan 2016 |
+|083| Single Number II | 4 Jan 2016 |
+|048| Majority Number III | 2 Jan 2016 |
+|047| Majority Number II | 2 Jan 2016 |
 |   | Linked List | - |
 |174| Remove Nth Node From End of List | 20 Nov 2015 |
 |165| Merge Two Sorted Lists | 20 Nov 2015 |
@@ -154,11 +154,11 @@
 |170| Rotate List | |
 |106| Convert Sorted List to Balanced BST | |
 |105| Copy List with Random Pointer | 20 Nov 2015 |
-|102| Linked List Cycle | |
+|102| Linked List Cycle | 4 Jan 2016 |
 |099| Reorder List | |
 |098| Sort List | |
 |167| Add Two Numbers | |
 |166| Nth to Last Node in List | |
-|113| Remove Duplicates from Sorted List II | |
-|036| Reverse Linked List II | |
+|113| Remove Duplicates from Sorted List II | 4 Jan 2016 |
+|036| Reverse Linked List II | 2 Jan 2016 |
 |103| Linked List Cycle II | |
