@@ -155,7 +155,7 @@
 |106| Convert Sorted List to Balanced BST | 5 Jan 2016 |
 |105| Copy List with Random Pointer | 20 Nov 2015 |
 |102| Linked List Cycle | 4 Jan 2016 |
-|099| Reorder List | |
+|099| Reorder List | 6 Jan 2015 |
 |098| Sort List | |
 |167| Add Two Numbers | |
 |166| Nth to Last Node in List | |
