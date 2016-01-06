@@ -166,7 +166,7 @@
 |097| Maximum Depth of Binary Tree | 6 Dec 2015 |
 |085| Insert Node in a Binary Search Tree | 6 Jan 2016 |
 |066| Binary Tree Preorder Traversal | 2 Jan 2016 |
-|095| Validate Binary Search Tree | |
+|095| Validate Binary Search Tree | 6 Jan 2016 |
 |093| Balanced Binary Tree | |
 |073| Construct Binary Tree from Preorder and Inorder Traversal | 28 Oct 2015 |
 |069| Binary Tree Level Order Traversal | 20 Nov 2015 |
