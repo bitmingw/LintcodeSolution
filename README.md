@@ -167,7 +167,7 @@
 |085| Insert Node in a Binary Search Tree | 6 Jan 2016 |
 |066| Binary Tree Preorder Traversal | 2 Jan 2016 |
 |095| Validate Binary Search Tree | 6 Jan 2016 |
-|093| Balanced Binary Tree | |
+|093| Balanced Binary Tree | 6 Jan 2016 |
 |073| Construct Binary Tree from Preorder and Inorder Traversal | 28 Oct 2015 |
 |069| Binary Tree Level Order Traversal | 20 Nov 2015 |
 |011| Search Range in Binary Search Tree | |
