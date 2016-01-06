@@ -162,3 +162,21 @@
 |113| Remove Duplicates from Sorted List II | 4 Jan 2016 |
 |036| Reverse Linked List II | 2 Jan 2016 |
 |103| Linked List Cycle II | |
+|   | Binary Tree | - |
+|097| Maximum Depth of Binary Tree | 6 Dec 2015 |
+|085| Insert Node in a Binary Search Tree | |
+|066| Binary Tree Preorder Traversal | 2 Jan 2016 |
+|095| Validate Binary Search Tree | |
+|093| Balanced Binary Tree | |
+|073| Construct Binary Tree from Preorder and Inorder Traversal | 28 Oct 2015 |
+|069| Binary Tree Level Order Traversal | 20 Nov 2015 |
+|011| Search Range in Binary Search Tree | |
+|007| Binary Tree Serialization | 14 Dec 2015 |
+|087| Remove Node in Binary Search Tree | |
+|155| Minimum Depth of Binary Tree | |
+|067| Binary Tree Inorder Traversal | 2 Jan 2016 |
+|066| Binary Tree Preorder Traversal | 2 Jan 2016 |
+|163| Unique Binary Search Trees | 23 Dec 2015 |
+|072| Construct Binary Tree from Inorder and Postorder Traversal | 2 Jan 2016 |
+|071| Binary Tree Zigzag Level Order Traversal | 14 Dec 2015 |
+|070| Binary Tree Level Order Traversal II | 2 Jan 2016 |
