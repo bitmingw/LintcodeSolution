@@ -170,7 +170,7 @@
 |093| Balanced Binary Tree | 6 Jan 2016 |
 |073| Construct Binary Tree from Preorder and Inorder Traversal | 28 Oct 2015 |
 |069| Binary Tree Level Order Traversal | 20 Nov 2015 |
-|011| Search Range in Binary Search Tree | |
+|011| Search Range in Binary Search Tree | 6 Jan 2016 |
 |007| Binary Tree Serialization | 14 Dec 2015 |
 |087| Remove Node in Binary Search Tree | |
 |155| Minimum Depth of Binary Tree | |
