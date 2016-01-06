@@ -164,7 +164,7 @@
 |103| Linked List Cycle II | |
 |   | Binary Tree | - |
 |097| Maximum Depth of Binary Tree | 6 Dec 2015 |
-|085| Insert Node in a Binary Search Tree | |
+|085| Insert Node in a Binary Search Tree | 6 Jan 2016 |
 |066| Binary Tree Preorder Traversal | 2 Jan 2016 |
 |095| Validate Binary Search Tree | |
 |093| Balanced Binary Tree | |
