@@ -172,7 +172,7 @@
 |069| Binary Tree Level Order Traversal | 20 Nov 2015 |
 |011| Search Range in Binary Search Tree | 6 Jan 2016 |
 |007| Binary Tree Serialization | 14 Dec 2015 |
-|087| Remove Node in Binary Search Tree | |
+|087| Remove Node in Binary Search Tree | 6 Jan 2016 |
 |155| Minimum Depth of Binary Tree | |
 |067| Binary Tree Inorder Traversal | 2 Jan 2016 |
 |066| Binary Tree Preorder Traversal | 2 Jan 2016 |
