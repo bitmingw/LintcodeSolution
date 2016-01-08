@@ -180,7 +180,7 @@
 |072| Construct Binary Tree from Inorder and Postorder Traversal | 2 Jan 2016 |
 |071| Binary Tree Zigzag Level Order Traversal | 14 Dec 2015 |
 |070| Binary Tree Level Order Traversal II | 2 Jan 2016 |
-|152| Combinations | |
+|152| Combinations | 8 Jan 2016 |
 |135| Combination Sum | |
 |127| Topological Sorting | |
 |120| Word Ladder | |
