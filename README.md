@@ -183,7 +183,7 @@
 |152| Combinations | 8 Jan 2016 |
 |135| Combination Sum | 8 Jan 2016 |
 |127| Topological Sorting | 8 Jan 2016 |
-|120| Word Ladder | |
+|120| Word Ladder | 8 Jan 2016 |
 |033| N-Queens | |
 |018| Subset II | |
 |017| Subset | |
