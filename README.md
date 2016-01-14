@@ -185,8 +185,8 @@
 |127| Topological Sorting | 8 Jan 2016 |
 |120| Word Ladder | 8 Jan 2016 |
 |033| N-Queens | 13 Jan 2016 |
-|018| Subset II | |
-|017| Subset | |
+|018| Subset II | 13 Jan 2016 |
+|017| Subset | 13 Jan 2016 |
 |016| Permutations II | |
 |015| Permutations | |
 |121| Word Ladder II | |
