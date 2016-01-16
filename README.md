@@ -188,7 +188,7 @@
 |018| Subset II | 13 Jan 2016 |
 |017| Subset | 13 Jan 2016 |
 |016| Permutations II | |
-|015| Permutations | |
+|015| Permutations | 16 Jan 2016 |
 |121| Word Ladder II | |
 |153| Combination Sum II | |
 |137| Clone Graph | |
