@@ -187,7 +187,7 @@
 |033| N-Queens | 13 Jan 2016 |
 |018| Subset II | 13 Jan 2016 |
 |017| Subset | 13 Jan 2016 |
-|016| Permutations II | |
+|016| Permutations II | 16 Jan 2016 |
 |015| Permutations | 16 Jan 2016 |
 |121| Word Ladder II | |
 |153| Combination Sum II | |
