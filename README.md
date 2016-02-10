@@ -1,7 +1,7 @@
 # LintCode Solutions
 
-Todo: 143
+Todo: 139
 
-Accepted: 112
+Accepted: 116
 
 Failed: 2
