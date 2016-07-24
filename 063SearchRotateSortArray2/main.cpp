@@ -10,7 +10,11 @@ class Solution {
      */
 public:
     bool search(vector<int> &A, int target) {
-        // write your code here
+        if (A.empty()) return false;
+        for (int val: A) {
+            if (val == target) return true;
+        }
+        return false;
     }
 };
 
