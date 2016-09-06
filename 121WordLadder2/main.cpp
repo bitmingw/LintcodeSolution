@@ -32,10 +32,10 @@ public:
                 if (ladders.empty() || path.size() == ladders.back().size())
                 ladders.push_back(path);
             }
-            vector<string> options = genChanges(path.back());
+            vector<string> options = genChanges(path.back(), dict);
             unordered_set<string> pathSet(path.begin(), path.end());
             for (auto op_it = options.begin(); op_it != options.end(); ++op_it) {
-                if (pathSet.find(*op_it) == pathSet.end() && dict.find(*op_it) != dict.end()) {
+                if (pathSet.find(*op_it) == pathSet.end()) {
                     path.push_back(*op_it);
                     searchQ.push(path);
                     path.pop_back();
@@ -44,14 +44,15 @@ public:
         }
     }
 
-    vector<string> genChanges(string origin) {
+    vector<string> genChanges(string origin, unordered_set<string>& dict) {
         vector<string> changes;
         for (int i = 0; i < origin.size(); ++i) {
             string s(origin);
             for (char c = 'a'; c <= 'z'; ++c) {
                 if (c != origin[i]) {
                     s[i] = c;
-                    changes.push_back(s);
+                    if (dict.find(s) != dict.end())
+                        changes.push_back(s);
                 }
             }
         }
