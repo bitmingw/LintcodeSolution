@@ -12,12 +12,13 @@ public:
     bool end;
 };
 
-class TrieTree {
+class WordDictionary {
 public:
-    TrieTree() {
+    WordDictionary() {
         root = new TrieNode();
     }
 
+    // Adds a word into the data structure.
     void addWord(string word) {
         TrieNode* pos = root;
         for (int i = 0; i < word.length(); ++i) {
@@ -34,10 +35,15 @@ public:
         pos->end = true;
     }
 
+    // Returns if the word is in the data structure. A word could
+    // contain the dot character '.' to represent any one letter.
     bool search(string word) {
-        TrieNode* pos = root;
+        return search(word, root);
+    }
+
+    bool search(string word, TrieNode* pos) {
+        if (!pos) return false;
         for (int i = 0; i < word.length(); ++i) {
-            if (!pos) return false;
             char c = word[i];
             if (c == '.') {
                 vector<char> possibles;
@@ -45,9 +51,9 @@ public:
                     if (pos->sub[pc - 'a']) possibles.push_back(pc);
                 }
                 for (char pc: possibles) {
-                    string new_str(word.begin(), word.end());
-                    new_str[i] = pc;
-                    if (search(new_str)) return true;
+                    string new_str(word.begin()+i, word.end());
+                    new_str[0] = pc;
+                    if (search(new_str, pos)) return true;
                 }
                 return false;
             } else {
@@ -58,29 +64,11 @@ public:
                 }
             }
         }
-        if (!pos) return false;
         return pos->end == true;
     }
 
-    TrieNode* root;
-};
-
-class WordDictionary {
-public:
-
-    // Adds a word into the data structure.
-    void addWord(string word) {
-        tree.addWord(word);
-    }
-
-    // Returns if the word is in the data structure. A word could
-    // contain the dot character '.' to represent any one letter.
-    bool search(string word) {
-        return tree.search(word);
-    }
-
 private:
-    TrieTree tree;
+    TrieNode* root;
 };
 
 // [addWord("ran"), addWord("rune"), addWord("runner"), addWord("runs"), addWord("add"), addWord("adds"), addWord("adder"), addWord("addee"), search("r.n"), search("ru.n.e"), search("add"), search("add."), search("adde."), search(".an."), search("...s"), search("....e."), search("......."), search("..n.r")]
