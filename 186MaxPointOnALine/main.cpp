@@ -23,7 +23,7 @@ public:
         if (points.size() == 2) return 2;
         int max_lines = 0;
         for (int i = 0; i < points.size(); ++i) {
-            unordered_map<double, int> records;
+            unordered_map<float, int> records;
             int duplicates = 1;
             for (int j = 0; j < points.size(); ++j) {
                 if (i == j) continue;
@@ -31,17 +31,13 @@ public:
                     ++duplicates;
                     continue;
                 }
-                int k;
+                float k;
                 if (points[i].x == points[j].x) {
                     k = INT32_MAX;
                 } else {
-                    k = (double)(points[i].y - points[j].y) / (points[i].x - points[j].x);
+                    k = (float)(points[i].y - points[j].y) / (points[i].x - points[j].x);
                 }
-                if (records.find(k) == records.end()) {
-                    records[k] = 1;
-                } else {
-                    records[k] += 1;
-                }
+                records[k]++;
             }
             if (records.empty() && duplicates > max_lines)
                 max_lines = duplicates;
